@@ -1,0 +1,192 @@
+﻿ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=7 --> OK --> 
+ATDT980014; --> OK --> 
+
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=7 --> OK --> 
+ATDT980014 --> OK --> 
+
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=0 --> OK --> 
+ATDT980014; --> OK --> 
+
+ATZ -->  --> OK --> 
+AT+MS=V34 -->  --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 -->  --> D-Link DFM-562E External Modem 02/14/2003 -->  --> OK --> 
+--=== ITERATION 1 ===--
+ATZ -->  --> OK --> 
+AT+FCLASS=8 -->  --> OK --> 
+AT+VLS=3 -->  --> OK --> 
+ATDT980014; -->  --> OK --> 
+VTX --> 
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 --> D-Link DFM-562E External Modem 02/14/2003 --> OK --> 
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+ATM3 --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 --> D-Link DFM-562E External Modem 02/14/2003 --> OK --> 
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 --> D-Link DFM-562E External Modem 02/14/2003 --> OK --> 
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=3 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 --> D-Link DFM-562E External Modem 02/14/2003 --> OK --> 
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=2 --> ERROR --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 --> D-Link DFM-562E External Modem 02/14/2003 --> OK --> 
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:00:04...
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:00:54...
+--=== ITERATION 2 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:01:45...
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:02:35...
+--=== ITERATION 3 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:03:26...
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:04:16...
+--=== ITERATION 4 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:05:07...
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 02.04.2010 11:05:57...
+--=== ITERATION 5 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT980014; --> OK --> 
+VTX --> 
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 --> D-Link DFM-562E External Modem 02/14/2003 --> OK --> 
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT278703; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 11.02.2011 16:58:16...
+--=== ITERATION 2 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT278703; --> OK --> 
+VTX --> 
+ATH? --> OK --> 
+Done at 11.02.2011 16:59:07...
+ATZ --> OK --> 
+AT+MS=V34 --> OK --> 
+--=== BEGIN OF DIAL ===--
+ATI4 --> D-Link DFM-562E External Modem 02/14/2003 --> OK --> 
+--=== ITERATION 1 ===--
+ATZ --> OK --> 
+AT+FCLASS=8 --> OK --> 
+AT+VLS=6 --> OK --> 
+ATM3 --> OK --> 
+ATDT89033292331; --> 
+ --> OK --> 
