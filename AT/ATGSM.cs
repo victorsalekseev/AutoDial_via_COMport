@@ -8,6 +8,7 @@ using System.Text.RegularExpressions;
 
 namespace Netcode.AT
 {
+    //ВЗЯТО из NetcodeLib3.0
     public class ATGSM
     {
         public const string terminator = "\r\n";
